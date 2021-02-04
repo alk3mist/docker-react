@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://elm-lang.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-            Learn Elm instead of learn react
+            Learn Elm instead of learning react
         </a>
       </header>
     </div>
